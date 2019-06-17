@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> My 1st html</title>
+</head>
+<body>
+錦鯉（學名：Cyprinus carpio haematopterus），是鯉魚的變種，也是水池裡很常見的觀賞魚。雖然體型肥大，但肉少刺多且帶強烈土腥味，故不適合成為食用魚。
+<img src="images/1st.jpg">
+<a href="2nd.html">連到第2頁</a>
+<a href="3rd.html">連到第3頁</a>
+<a href="4th.html">連到第4頁</a>
+</body>
+</html>
